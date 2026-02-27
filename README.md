@@ -17,39 +17,39 @@ Total knitting output reached 403K KG, but overall efficiency is 78.6%, indicati
 
 insights
 
-Fabric inspection pass rate is only 60.22%, resulting in a high dyeing reprocess rate of 12.37%. 
+** Fabric inspection pass rate is only 60.22%, resulting in a high dyeing reprocess rate of 12.37%. 
 
-insights
 
-Average fabric shrinkage is 6%, which is above the target of 5%, showing weak finishing control. 
 
-insights
+** Average fabric shrinkage is 6%, which is above the target of 5%, showing weak finishing control. 
 
-All major buyers show the same inspection pass rate (60.22%), indicating that quality issues are systemic and internal, rather than buyer-specific. 
 
-insights
+
+** All major buyers show the same inspection pass rate (60.22%), indicating that quality issues are systemic and internal, rather than buyer-specific. 
+
+
 
 🔹 Garments (Cutting, Sewing, Finishing & Shipment)
 
-Sewing efficiency is extremely high at 99.26%, with several lines exceeding 152%, suggesting very high productivity but a possible need to review target settings. 
+ ** Sewing efficiency is extremely high at 99.26%, with several lines exceeding 152%, suggesting very high productivity but a possible need to review target settings. 
 
-insights
 
-Finishing achievement is 99.62%, meaning most orders are technically ready for dispatch. 
 
-insights
+** Finishing achievement is 99.62%, meaning most orders are technically ready for dispatch. 
 
-Average DHU (Defects per Hundred Units) is 4.50%, which still offers scope for further cost and rework reduction. 
 
-insights
 
-Despite strong finishing performance, on-time shipment is only 34%, highlighting a major delivery and planning gap. 
+** Average DHU (Defects per Hundred Units) is 4.50%, which still offers scope for further cost and rework reduction. 
 
-insights
 
-Cutting volume shows a declining trend from 12.6M (2023–24) to 9.9M (2025), which may indicate a potential slowdown in future orders. 
 
-insights
+** Despite strong finishing performance, on-time shipment is only 34%, highlighting a major delivery and planning gap. 
+
+
+
+** Cutting volume shows a declining trend from 12.6M (2023–24) to 9.9M (2025), which may indicate a potential slowdown in future orders. 
+
+
 
 🛠 Tools & Technology
 
