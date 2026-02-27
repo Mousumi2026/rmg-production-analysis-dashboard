@@ -4,13 +4,11 @@
 This project is a Power BI dashboard developed for analyzing end-to-end performance of a Ready-Made Garments (RMG) manufacturing operation, covering both Textile (Knitting, Dyeing, Finishing) and Garments (Cutting, Sewing, Finishing & Shipment) processes.
 
 🧩 Dashboard Pages
-1️⃣ Textile Dashboard
+   1️⃣ Textile Dashboard
+      Focus on knitting, dyeing and fabric quality performance.
 
-Focus on knitting, dyeing and fabric quality performance.
-
-2️⃣ Garments Dashboard
-
-Focus on production efficiency, defect control and shipment performance.
+   2️⃣ Garments Dashboard
+      Focus on production efficiency, defect control and shipment performance.
 
 📌 Key Business Insights
 🔹 Textile (Knitting, Dyeing & Finishing)
