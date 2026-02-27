@@ -12,6 +12,7 @@ This project is a Power BI dashboard developed for analyzing end-to-end performa
       Focus on knitting, dyeing and fabric quality performance.
 
    2️⃣ Garments Dashboard ![Garments Dashboard](garments.jpg)
+   
       Focus on production efficiency, defect control and shipment performance.
 
 📌 Key Business Insights
